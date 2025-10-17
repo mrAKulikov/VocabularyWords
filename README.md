@@ -1,5 +1,3 @@
-# Privacy Policy for VocabularyWords
-
 ## Privacy Policy
 
 **Last updated:** September 26, 2025
