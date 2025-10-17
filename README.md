@@ -2,7 +2,7 @@
 
 ## Privacy Policy
 
-## Last updated: September 26, 2025
+**Last updated:** September 26, 2025
 
 ### 1. General Information
 Vocabulary Words ("the App", "we", "our", or "us") respects your privacy. Our App is designed for children aged 4 and older and fully complies with applicable privacy laws, including the Children's Online Privacy Protection Act (COPPA) and the General Data Protection Regulation (GDPR). We do not collect, store, share, or process any personal information from users of any age.
